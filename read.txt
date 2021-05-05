@@ -1,0 +1,8 @@
+File to test functionality of read function
+as of libasm library project
+at school21
+
+by Sandmann Thrace
+
+^@^
+READ STANDARD
